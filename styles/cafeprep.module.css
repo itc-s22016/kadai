@@ -1,0 +1,53 @@
+.body {
+	background-color: #EDC;
+	height: 100vh;
+}
+
+
+.bgp{
+	color: #EDC;
+	height: 300px;
+}
+
+.box {
+	background-color: #FFF;
+	border: 1px solid #CCC;
+	box-shadow: 0 0 10px #CCC inset;
+	font-family: serif;
+	text-align: center;
+	width: 350px;
+	height: 150px;
+}
+
+.boxhead {
+	background: #753;
+	box-shadow: 0 0 10px #333 inset;
+	padding: 10px;
+}
+
+.h1 {
+	color: #FFF;
+	margin: 0;
+	font-size: 25px;
+	text-shadow: 0 -2px 0 #333;
+}
+
+.boxbody {
+	padding: 10px;
+	top: 50px;
+}
+
+.h2 {
+	font-size: 18px;
+	padding: 10px;
+}
+
+.ul {
+	list-style-type: none;
+	padding: 5px;
+	font-size: 15px;
+}
+
+
+
+

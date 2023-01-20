@@ -1,0 +1,8 @@
+.list {
+	display: flex;
+	gap: 1.5rem;
+	font-size: var(--icon-size. 24px);
+	
+}
+
+
